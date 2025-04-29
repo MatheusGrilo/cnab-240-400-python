@@ -1,7 +1,7 @@
 # 🏦 CNAB 240 / 400 Python
 
 <div align="center">
-<img src="https://github.com/MatheusGrilo/CNAB-Facil/raw/main/.gitassets/logo.png" width="350" />
+<img src="https://github.com/MatheusGrilo/CNAB-240-400-python/raw/main/.gitassets/logo.png" width="350" />
 
 <div data-badges>
     <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -42,16 +42,15 @@ O projeto é uma aplicação desktop desenvolvida em Python puro utilizando a bi
 
 ## 🗒️ Features do projeto 🗒️
 
-- Leitura de arquivos CNAB 400/240
-- Interface gráfica simples e intuitiva
-- Classificação de status dos registros (como: Pago, Cancelado, Em Aberto)
-- Geração de arquivos de retorno processados
-- Compatível com múltiplos bancos e layouts CNAB (em breve)
+- [ ] Leitura de arquivos CNAB 400 ~~/ 240~~ (em breve 240)
+- [X] Interface gráfica simples
+- [X] Classificação de status dos registros (como: Pago, Cancelado, Em Aberto)
+- [X] Geração de arquivos de retorno processados
+- [ ] Compatível com múltiplos bancos e layouts CNAB (em breve)
 
 ## 💎 Links úteis 💎
 
 - [Python](https://www.python.org/)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
-![](https://github.com/MatheusGrilo/CNAB-Facil/raw/main/.gitassets/1.png)
-![](https://github.com/MatheusGrilo/CNAB-Facil/raw/main/.gitassets/2.png)
+![](https://github.com/MatheusGrilo/CNAB-240-400-python/raw/main/.gitassets/1.png)
